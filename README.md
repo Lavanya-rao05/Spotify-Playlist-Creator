@@ -3,11 +3,10 @@
 Spotify Playlist Creator from Billboard 100
 This Python script automates the creation of Spotify playlists using Billboard's top 100 songs from any date in the past. It leverages the Spotify API and Spotipy library for seamless integration.
 
-Setup Instructions
+1. Setup Instructions
 Sign Up for Spotify Developer Account
-
-If you haven't already, sign up for a Spotify account and then register as a developer on the Spotify Developer Dashboard.
-Create a Spotify App
+If you haven't already, sign up for a Spotify account and then register as a developer on the Spotify Developer Dashboard. https://developer.spotify.com/
+Create a Spotify App 
 
 Create a new Spotify App on the Developer Dashboard with the following details:
 App Name: Billboard 100
