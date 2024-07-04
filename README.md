@@ -22,4 +22,4 @@ This Python script automates the creation of Spotify playlists using Billboard's
   Once authenticated, copy the entire URL from the redirected page and paste it into the console.
 
 5.Playlist Creation
-The script will fetch Billboard's top 100 songs from the specified date and create a new private playlist in your Spotify account.
+  The script will fetch Billboard's top 100 songs from the specified date and create a new private playlist in your Spotify account.
